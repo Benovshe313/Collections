@@ -1,0 +1,4 @@
+C:\Users\User\source\repos\IDictionary\IDictionary\obj\Debug\net8.0\IDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\IDictionary\IDictionary\obj\Debug\net8.0\IDictionary.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\IDictionary\IDictionary\obj\Debug\net8.0\IDictionary.AssemblyInfo.cs
+C:\Users\User\source\repos\IDictionary\IDictionary\obj\Debug\net8.0\IDictionary.csproj.CoreCompileInputs.cache
